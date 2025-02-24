@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\bin\Debug\net8.0\лаб1.exe
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\bin\Debug\net8.0\лаб1.deps.json
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\bin\Debug\net8.0\лаб1.runtimeconfig.json
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\bin\Debug\net8.0\лаб1.dll
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\bin\Debug\net8.0\лаб1.pdb
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.AssemblyInfo.cs
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.dll
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\refint\лаб1.dll
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.pdb
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\лаб1.genruntimeconfig.cache
+C:\Users\user\Desktop\лаб сшарп\лаб1\лаб1\obj\Debug\net8.0\ref\лаб1.dll
