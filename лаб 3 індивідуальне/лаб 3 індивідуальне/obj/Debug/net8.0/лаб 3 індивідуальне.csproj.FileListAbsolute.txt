@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\bin\Debug\net8.0\лаб 3 індивідуальне.exe
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\bin\Debug\net8.0\лаб 3 індивідуальне.deps.json
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\bin\Debug\net8.0\лаб 3 індивідуальне.runtimeconfig.json
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\bin\Debug\net8.0\лаб 3 індивідуальне.dll
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\bin\Debug\net8.0\лаб 3 індивідуальне.pdb
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.AssemblyInfo.cs
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.dll
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\refint\лаб 3 індивідуальне.dll
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.pdb
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\лаб 3 індивідуальне.genruntimeconfig.cache
+C:\Users\user\Desktop\лаб сшарп\лаб 3 індивідуальне\лаб 3 індивідуальне\obj\Debug\net8.0\ref\лаб 3 індивідуальне.dll
