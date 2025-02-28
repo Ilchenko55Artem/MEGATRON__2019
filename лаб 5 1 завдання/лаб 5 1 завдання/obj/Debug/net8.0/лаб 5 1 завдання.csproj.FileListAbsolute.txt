@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\bin\Debug\net8.0\лаб 5 1 завдання.exe
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\bin\Debug\net8.0\лаб 5 1 завдання.deps.json
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\bin\Debug\net8.0\лаб 5 1 завдання.runtimeconfig.json
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\bin\Debug\net8.0\лаб 5 1 завдання.dll
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\bin\Debug\net8.0\лаб 5 1 завдання.pdb
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.AssemblyInfo.cs
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.dll
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\refint\лаб 5 1 завдання.dll
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.pdb
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\лаб 5 1 завдання.genruntimeconfig.cache
+C:\Users\user\Desktop\лаб сшарп\лаб 5 1 завдання\лаб 5 1 завдання\obj\Debug\net8.0\ref\лаб 5 1 завдання.dll
